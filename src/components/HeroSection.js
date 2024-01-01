@@ -16,7 +16,7 @@ const HeroSection = () => {
               Where to grow your business as a photographer: site or social
               media?
             </p>
-            <button className="py-4 px-8 bg-[#4CAF4F] rounded text-md text-white">
+            <button className="px-8 py-[14px] bg-[#4CAF4F] rounded text-md text-white">
               Register
             </button>
           </div>

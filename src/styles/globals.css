@@ -18,3 +18,13 @@ body {
   -webkit-text-stroke: 1px #000000;
   text-shadow: 1px 1px 1px #000000;
 }
+
+.community-logo-bg {
+  height: 50px;
+  width: 50px;
+  background-color: #e8f5e9;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 16px;
+  border-bottom-right-radius: 24px;
+  border-bottom-left-radius: 8px;
+}
