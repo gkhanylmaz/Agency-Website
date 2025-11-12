@@ -22,7 +22,7 @@ const Community = () => {
       logo: CommunityIcon3,
       text: "Clubs And Groups",
       description:
-        "Our membership management software provides full automation of membership renewals and payments",
+        "Our membership management asdasdsoftware provides full automation of membership renewals and payments",
     },
   ];
   return (
